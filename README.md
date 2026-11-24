@@ -8,7 +8,7 @@ cycle PWM, semakin besar tegangan rata-rata yang diterima motor, semakin
 kencang putarannya. Tombol tekan membalik arah putar (maju/mundur), dan LED
 hijau menyala selama motor berputar.
 
-Video Short (60 detik): link menyusul setelah upload
+Video Short (60 detik): https://youtube.com/shorts/buEJw9L47yg
 
 ## Cara kerja
 
